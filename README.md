@@ -1,9 +1,12 @@
 ### Olá sou Filipe Ferreira!!! 
 ###### De Ipatinga-MG
 
+- [@Lipe1994]([https://www.instagram.com/l1peferreira/](https://github.com/Lipe1994)) - Github Atual
+
 - [@filipe-ferreira-425380123](https://www.linkedin.com/in/filipe-ferreira-425380123/) - Linkedin
 
 - [@l1peferreira](https://www.instagram.com/l1peferreira/) - Instagram
+
 
 Neste Github eu registro minhas experiências com desenvolvimento para quem cair de paraquedas  e para eu mesmo como ferramenta de consulta.
 
