@@ -1,7 +1,7 @@
 ### Olá sou Filipe Ferreira!!! 
 ###### De Ipatinga-MG
 
-- [@Lipe1994]([https://www.instagram.com/l1peferreira/](https://github.com/Lipe1994)) - Github Atual
+- [@Lipe1994](https://github.com/Lipe1994) - Github Atual
 
 - [@filipe-ferreira-425380123](https://www.linkedin.com/in/filipe-ferreira-425380123/) - Linkedin
 
